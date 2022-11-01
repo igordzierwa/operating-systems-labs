@@ -1,0 +1,7 @@
+ls
+ls -l
+mkdir r
+cd r
+touch file.txt
+cd ..
+mkdir t
